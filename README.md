@@ -33,16 +33,6 @@ This project is an interactive Excel dashboard that provides insights into coffe
 
 ---
 
-## 🛠 Tools & Techniques
-
-- Microsoft Excel  
-- Pivot Tables & Charts  
-- Slicers & Filters  
-- Conditional Formatting  
-- Advanced Excel Functions
-
----
-
 ## 📸 Screenshots
 
 *(Optional: Add screenshots in a `screenshots/` folder and display them here)*
