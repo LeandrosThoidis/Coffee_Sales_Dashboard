@@ -1,34 +1,52 @@
-An interactive Excel dashboard that visualizes coffee sales trends, customer behavior, and product performance using advanced Excel tools.
+# ☕ Coffee Sales Dashboard
 
-🔍 Key Features
+This project is an interactive Excel dashboard that provides insights into coffee sales performance, customer behavior, and product trends. Built with advanced Excel features, it offers a user-friendly experience for analyzing and filtering sales data.
 
-Pivot Tables for summarizing sales data
+---
 
-Dynamic Charts by coffee type, country, and time
+## 📌 Features
 
-Slicers for quick filtering (year, month, type)
+- 📊 **Pivot Tables** – Summarize large datasets for fast insight
+- 📈 **Dynamic Charts** – Visualize trends by coffee type, country, and time
+- 🎯 **Slicers** – Interactive filters by year, month, and coffee category
+- 🎨 **Conditional Formatting** – Highlights key metrics at a glance
+- 🧮 **Advanced Formulas** – Uses `XLOOKUP`, `INDEX-MATCH`, and nested `IF` statements
 
-Conditional Formatting to highlight trends
+---
 
-Advanced Formulas like XLOOKUP and INDEX-MATCH
+## 📁 Data Overview
 
-📊 Data Insights
+- **Coffee Types**: Arabica, Excelsa, Libelica, Robusta  
+- **Geography**: United Kingdom, Ireland, United States  
+- **Customers**: Top 5 customers by sales volume  
+- **Order Details**: Roast type, package size, unit price  
+- **Timeline**: Multi-year monthly sales data
 
-Sales by coffee type (Arabica, Robusta, etc.)
+---
 
-Top 5 customers by volume
+## 🧭 How to Use
 
-Country breakdown (UK, Ireland, USA)
+1. **Open the Excel dashboard**
+2. Use **slicers** to filter by time period or coffee type
+3. Explore **charts** and **tables** that update dynamically
+4. Analyze highlights using **conditional formatting**
 
-Product details: roast, size, unit price
+---
 
-🛠 Tools Used
+## 🛠 Tools & Techniques
 
-Excel Pivot Tables & Charts
+- Microsoft Excel  
+- Pivot Tables & Charts  
+- Slicers & Filters  
+- Conditional Formatting  
+- Advanced Excel Functions
 
-Slicers for interactivity
+---
 
-Conditional Formatting
+## 📸 Screenshots
 
-Advanced formulas
+*(Optional: Add screenshots in a `screenshots/` folder and display them here)*
 
+```markdown
+![Dashboard Overview](screenshots/overview.png)
+![Sales by Country](screenshots/sales_by_country.png)
