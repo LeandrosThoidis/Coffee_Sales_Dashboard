@@ -33,10 +33,7 @@ This project is an interactive Excel dashboard that provides insights into coffe
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot:
 
-*(Optional: Add screenshots in a `screenshots/` folder and display them here)*
+![image](https://github.com/user-attachments/assets/2675bf36-aab4-45af-9bf2-68cc855dfd5c)
 
-```markdown
-![Dashboard Overview](screenshots/overview.png)
-![Sales by Country](screenshots/sales_by_country.png)
